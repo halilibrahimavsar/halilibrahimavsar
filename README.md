@@ -1,4 +1,4 @@
-# Halil İbrahim Avsar
+# Halil ibrahim Avsar
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&width=435&lines=Welcome+to+my+page!+;If+you+have+any+questions+;or+would+like+to+get+in+touch;+please+don't+hesitate+to+contact+me.)](https://git.io/typing-svg)
 <picture>
