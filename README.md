@@ -10,6 +10,8 @@ Experienced **Python** programmer with a passion for automation and *Android app
 Feel free to *contact* with me.
 
 
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=halilibrahimavsar&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
 
 ---
