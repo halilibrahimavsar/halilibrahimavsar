@@ -1,5 +1,7 @@
 # Halil İbrahim Avsar
 
+Welcome to my page https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json
+
 Experienced Python programmer with a passion for automation and Android app development in Java.
 
 
