@@ -1,5 +1,8 @@
 # Halil İbrahim Avsar
 
+Experienced Python programmer with a passion for automation and Android app development in Java.
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=halilibrahimavsar&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
 
 ---
