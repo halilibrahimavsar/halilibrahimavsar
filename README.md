@@ -20,7 +20,7 @@ Feel free to *contact* with me.
 </div>
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halilibrahimavsar&show_icons=true&theme=transparent&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=halilibrahimavsar&show_icons=true&theme=transparent&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=halilibrahimavsar&theme=tokyonight)](https://git.io/streak-stats)
