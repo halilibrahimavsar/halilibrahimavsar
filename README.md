@@ -10,7 +10,7 @@
 
 Feel free to *contact* with me.
 
-$${\color{lightblue}Love is death of duty}$$
+$${\color{lightblue}Love \space is \space death \space of \space duty}$$
 
 ![](https://komarev.com/ghpvc/?username=halilibrahimavsar)
 <div>
