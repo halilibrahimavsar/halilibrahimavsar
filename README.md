@@ -25,4 +25,4 @@ Feel free to *contact* with me.
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=halilibrahimavsar&theme=tokyonight)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halilibrahimavsar&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=halilibrahimavsar&hide=javascript,css,scss,html&theme=tokyonight)
