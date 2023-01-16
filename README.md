@@ -10,7 +10,7 @@
 
 Feel free to *contact* with me.
 
-***LOVE IS DEATH OF DUTY***
+$${\color{lightblue}Love is death of duty}$$
 
 ![](https://komarev.com/ghpvc/?username=halilibrahimavsar)
 <div>
