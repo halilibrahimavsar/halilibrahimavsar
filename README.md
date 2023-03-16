@@ -6,7 +6,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32">
 </picture>
 
-**Python** programmer with a passion for automation and *Android app* development in **Java**. 
+**Python** programmer with a passion for automation and *Android app* development in **Flutter**. 
 
 Feel free to *contact* with me.
 
