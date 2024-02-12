@@ -1,6 +1,6 @@
 # Halil ibrahim Avsar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&random=false&width=435&lines=Welcome+to+my+page!+;If+you+have+any+questions+;or+would+like+to+get+in+touch;+please+don't+hesitate+to+contact+me.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=850&random=false&width=435&lines=Welcome+to+my+page!+;If+you+have+any+questions+;or+would+like+to+get+in+touch;+please+don't+hesitate+to+contact+me.)](https://git.io/typing-svg)
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="32" height="32">
