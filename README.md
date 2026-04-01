@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1000&pause=850&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hey+there%2C+I'm+Halil+Ibrahim+%F0%9F%91%8B;Python+%26+Flutter+Developer;Automation+Enthusiast;Always+building+something+new...)](https://git.io/typing-svg)
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="36">
 
 </div>
 
